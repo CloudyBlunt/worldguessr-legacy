@@ -25,7 +25,7 @@ Before you start, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/codergautam/worldguessr.git
+   git clone https://github.com/TheUltimateSoyCode/worldguessr-legacy.git
    cd worldguessr
    ```
 
