@@ -1,5 +1,5 @@
 
-![](123)
+![](https://github.com/TheUltimateSoyCode/worldguessr-legacy/blob/main/public/logo.png)
 
 Basically a slightly downgraded fork of the [original WorldGuessr](https://github.com/codergautam/worldguessr) I made for myself, because I hate what worldguessr has become. All online stuff is removed, only singleplayer and only selfhost 🙂
 
