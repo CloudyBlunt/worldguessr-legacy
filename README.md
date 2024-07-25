@@ -1,7 +1,7 @@
 
 ![](123)
 
-Basically a slightly downgraded fork of the [original WorldGuessr](https://github.com/codergautam/worldguessr) I made for myself because I hate what worldguessr has become. All online stuff is removed, only singleplayer and only selfhost 🙂
+Basically a slightly downgraded fork of the [original WorldGuessr](https://github.com/codergautam/worldguessr) I made for myself, because I hate what worldguessr has become. All online stuff is removed, only singleplayer and only selfhost 🙂
 
 
 The key differences there are; 
