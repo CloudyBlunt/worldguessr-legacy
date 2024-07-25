@@ -1,0 +1,8 @@
+name: name: My Site
+theme: minima
+on:
+  push:
+    branches:
+      - 'master'
+  pull_request:
+  workflow_dispatch:
