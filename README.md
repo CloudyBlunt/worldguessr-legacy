@@ -6,14 +6,13 @@ Basically a slightly downgraded fork of the [original WorldGuessr](https://githu
 
 The key differences there are; 
 1. Version of May 4th 2024 was taken as a base
-2. No leaderboard
-3. No multiplayer
+2. No online functionality
 
+![](https://i.imgur.com/TOgCw34.jpeg)
 ### Original WorldGuessr can be found [here](https://worldguessr.com)
 ### Github repo of WorldGuessr can be found [here](https://github.com/codergautam/worldguessr)
 
 All credits to the [creator](https://github.com/codergautam)
-
 ## Running Locally
 ### Prerequisites
 
